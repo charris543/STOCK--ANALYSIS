@@ -72,9 +72,9 @@ Next i
 Refactoring helps make our code cleaner and more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster programming. It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward. However, we do not always have the luxury to refactor our code due to disadvantages. These disadvantages may range from having applications that are too large to not having the proper test cases for the existing codes, which may ultimately pose some risk if we try to refactor our code.
 
 ###### The Advantages of Refactoring Stock Analysis
-The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time to run. Attached below are the screenshots that indicate the run time for our new analysis.!
+The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time to run. Attached below are the screenshots that indicate the run time for our new analysis.
 
-[VBA_Challenge_2018 png](https://user-images.githubusercontent.com/107444390/178417977-c66c541e-b8a6-4274-adbf-b06049c6d965.png)
+![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/107444390/178417977-c66c541e-b8a6-4274-adbf-b06049c6d965.png)
 
 
-![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/107444390/178418073-c5d4ee98-efbb-435f-a7ce-9e5cb4326bc3.png)
+![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/107444390/178422183-d12596a0-2a85-4e2c-9417-8a92cbe4f894.png)
